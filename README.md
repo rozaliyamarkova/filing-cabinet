@@ -3,7 +3,7 @@
 <p align="center"><i>A chaotic-good archive of coding experiments, tutorial projects, and digital doodles.</i></p>
 
 <p align="center">
-  <img alt="Learning in Progress" src="https://img.shields.io/badge/learning-in%20progress-blue?style=flat-square">
+  <img alt="Learning in Progress" src="https://img.shields.io/badge/Learning_in_Progress-blue?style=flat-square">
   <img alt="Folder Chaos Level" src="https://img.shields.io/badge/folder%20chaos-medium-yellow?style=flat-square">
 </p>
 
