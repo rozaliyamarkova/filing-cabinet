@@ -31,11 +31,13 @@ Because:
 
 ---
 
-## 📦 Sample Structure
+## 📦 Folder Order
 
+```
 📂 filing-cabinet/
 ├── 📁 codecademy/
 └── 📝 README.md
+```
 
 ---
 
