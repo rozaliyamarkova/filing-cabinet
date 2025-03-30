@@ -66,4 +66,4 @@ Feel free to:
 - 🛠️ Fork & remix
 - 📬 Open an issue to say hi
 
-> This is just the beginning. Let’s see far this rabbit hole will go 🐇
+> This is just the beginning. Let’s see how far this rabbit hole will go 🐇
