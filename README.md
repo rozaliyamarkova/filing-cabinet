@@ -1,2 +1,1 @@
-# filing-cabinet
-Storage space for different small projects to keep as reference
+<h1 align="center">🗂️ filing-cabinet</h1> <p align="center"> <i>A chaotic-good archive of coding experiments, tutorial projects, and digital doodles.</i> </p> <p align="center"> <img src="https://img.shields.io/badge/learning-in%20progress-blue?style=flat-square" alt="Learning in Progress"/> <img src="https://img.shields.io/badge/folder-chaos%20level%3A%20medium-yellow?style=flat-square" alt="Folder Chaos Level"/> </p>
