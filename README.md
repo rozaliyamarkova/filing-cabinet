@@ -1,4 +1,4 @@
-<h1 align="center">🗂️ filing-cabinet</h1>
+<h1 align="center">🗂️ Filing Cabinet</h1>
 
 <p align="center"><i>A chaotic-good archive of coding experiments, tutorial projects, and digital doodles.</i></p>
 
