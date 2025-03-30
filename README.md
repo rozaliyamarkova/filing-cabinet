@@ -9,19 +9,13 @@
 
 ---
 
-## 📁 What is this?
+## 🗃️ Drawers open atm
 
-**filing-cabinet** is my digital junk drawer — a place to store all the random stuff I build while learning.
-
-Expect a mix of:
-- 💡 Codecademy projects
-- 🧪 Code experiments and small builds
-- 🔧 Incomplete side quests
-- 🎨 Just-for-fun creations
 
 ---
 
-## 🧭 Why it exists
+## <p><img src="https://github.com/user-attachments/assets/7566f841-43e6-43b7-8051-8daa4cf770a3" alt="dancing-character" width="40"/>Why it exists</p>
+
 
 Because:
 - I need to determine where in this swamp squatteth the toad of truth
@@ -32,6 +26,7 @@ Because:
 ---
 
 ## 📦 Folder Order
+> This is just the beginning. Let’s see how far this rabbit hole will go 🐇
 
 ```
 📂 filing-cabinet/
@@ -45,10 +40,7 @@ Because:
 
 > Whatever the tutorial told me to use...
 
-- HTML / CSS / JS
-- Python / Flask
-- React
-- Bash, SQLite, and more
+- 
 
 ---
 
@@ -65,5 +57,3 @@ Feel free to:
 - ⭐ Star this repo
 - 🛠️ Fork & remix
 - 📬 Open an issue to say hi
-
-> This is just the beginning. Let’s see how far this rabbit hole will go 🐇
